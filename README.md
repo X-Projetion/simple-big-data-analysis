@@ -13,3 +13,5 @@ $ cd simple-big-data-analysis
 $ pip install -r requirements.txt
 $ python3 main.py
 ```
+<br><br>
+<h4 align="center">Simple Big Data Analysis Made in ❤️ By X-Projetion</h4>
